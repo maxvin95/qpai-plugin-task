@@ -1,0 +1,3 @@
+Place this shortcode in the wordpress page to display the form in the frontend.
+
+[qpai_plugin_form]
